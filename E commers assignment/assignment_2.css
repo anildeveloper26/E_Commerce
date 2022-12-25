@@ -1,0 +1,150 @@
+
+
+/*       the main image in background           */
+
+.main_image{
+    border-top: 0px;
+    padding-top: 0px;
+    background-repeat: no-repeat;
+    width: 1349px;      
+    height: 480px;
+
+}
+/*       the input bars of all locations           */
+.From{
+    position:absolute;
+    top:330px;
+    left: 166.9px;
+
+    border-color:white;
+    padding: 15px;
+    width: 300px;   
+}
+.To{
+    position:absolute;
+    top:330px;
+    left:500px;
+
+    border-color:white;
+    padding:15px;
+    width:300px;
+}
+.date{
+    position:absolute;
+    top: 330px;
+    left: 834px;
+
+    border-color:white;
+    padding:14px;
+    width:300px;    
+}
+/*     the input location bar logo's                 */
+.location_logo{
+    position:absolute;
+    top:370px;
+    left:770px;
+
+}
+.From_to_To{
+    position:relative;
+    bottom:212px;
+    left: 475px;
+    
+}
+.a{
+    position:absolute;
+    top: 345px;
+    left:440px;
+}
+.offers{
+    text-align: left;
+    color: #5d5d5d;
+    padding: 3px 16px;
+    position:absolute;
+    top: 23px;
+    left: 300px;
+    font-size: 25px;
+    font-family:fangsong ;
+}
+.login{
+    text-align: left;
+    color: #5d5d5d;
+    padding: 3px 16px;
+    position:absolute;
+    top: 23px;
+    left: 1150px;
+    font-size: 25px;
+    font-family:fangsong ;
+}
+.My_bookings{
+    text-align: left;
+    color: #5d5d5d;
+    padding: 3px 16px;
+    position:absolute;
+    top: 23px;
+    left: 980px;
+    font-size: 25px;
+    font-family:fangsong ;
+    
+}
+.get_free_rides{
+    text-align: left;
+    color: #5d5d5d;
+    padding: 3px 16px;
+    position:absolute;
+    top: 23px;
+    left: 830px;
+    font-size: 25px;
+    font-family:fangsong ;
+
+}
+.title{
+    position:absolute;
+    top:120px;
+    left: 470px;
+    color:rgb(0, 0, 0);
+    font-family: monospace;
+    font-size: 35px;
+}
+
+.TRAIN{
+   
+    position:absolute;
+    top: 220px;
+    left: 750px;
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 30px;
+    border-color: red;
+    opacity:70%;
+    color: red;
+}
+.hotel{
+    position:absolute;
+    top: 220px;
+    left: 600px;
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 30px;
+    border-color: red;
+    opacity:70%;
+    color: red;
+
+}
+.bus{
+    position:absolute;
+    top: 220px;
+    left: 450px;
+    font-size: 20px;
+    padding: 20px;  
+    border-radius: 30px;
+    border-color: red;
+    opacity:70%;
+    color: red;
+}
+.b{
+    font-size: 20px;
+    position:absolute;
+    top:600px;
+    left:600px;
+}
